@@ -36,6 +36,7 @@
 		8BCBCA811A2E131D0083AA1B /* web_contentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = web_contentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BCBCA861A2E131D0083AA1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BCBCA871A2E131D0083AA1B /* web_contentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = web_contentTests.swift; sourceTree = "<group>"; };
+		8BCBCA911A2E1E130083AA1B /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 			children = (
 				8BCBCA711A2E131C0083AA1B /* AppDelegate.swift */,
 				8BCBCA731A2E131C0083AA1B /* ViewController.swift */,
+				8BCBCA911A2E1E130083AA1B /* MyPlayground.playground */,
 				8BCBCA751A2E131C0083AA1B /* Main.storyboard */,
 				8BCBCA781A2E131D0083AA1B /* Images.xcassets */,
 				8BCBCA7A1A2E131D0083AA1B /* LaunchScreen.xib */,
